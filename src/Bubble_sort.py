@@ -10,6 +10,7 @@ def Bubble(arr):
 
 arr= [9,5,2,6]
 # to print
+
 Bubble(arr)
 print(arr)
 
